@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jul 2023 09:53:30 at http://constance.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://constance.local/ -O1 "C:\My Web Sites\ConstanceSmall" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:55:22	Warning: 	Retry after error -4 (No data (connection closed)) at link constance.local/wp-content/uploads/2023/07/Picture5.png (from constance.local/)
+09:55:29	Warning: 	Retry after error -4 (No data (connection closed)) at link constance.local/wp-content/uploads/2023/07/Rebecca.png (from constance.local/)
+09:55:36	Warning: 	Retry after error -4 (No data (connection closed)) at link constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.svg (from constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.7.0.5)
+09:55:37	Warning: 	Retry after error -4 (No data (connection closed)) at link constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot? (from constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.7.0.5)
+09:55:39	Warning: 	Retry after error -4 (No data (connection closed)) at link constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot? (from constance.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.7.0.5)
+09:55:57	Error: 	"Bad Request" (400) at link constance.local/wp-admin/admin-ajax.php (from constance.local/wp-content/uploads/bb-plugin/cache/5-layout.js?ver=f482bddc69947c1b05bc959e2e055d9f)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 29 seconds : 55 links scanned, 48 files written (5960006 bytes overall) [5406087 bytes received at 36282 bytes/sec], 696144 bytes transferred using HTTP compression in 17 files, ratio 17%, 2.7 requests per connection
+(1 errors, 5 warnings, 0 messages)
